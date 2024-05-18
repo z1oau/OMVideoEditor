@@ -7,12 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3cd6af-89d5-493c-9f70-b38200ad5785" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OMApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OMApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMApplication/obj/Debug/net8.0-windows/OMApplication.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OMApplication/obj/Debug/net8.0-windows/OMApplication.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMApplication/obj/Debug/net8.0-windows/OMApplication.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OMApplication/obj/Debug/net8.0-windows/OMApplication.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMApplication/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OMApplication/obj/rider.project.model.nuget.info" afterDir="false" />
-    </list>
+    <list default="true" id="ec3cd6af-89d5-493c-9f70-b38200ad5785" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,14 +19,13 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "z1oau"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;z1oau&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/z1oau/OMVideoEditor.git&quot;,
@@ -44,7 +38,7 @@
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -120,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715993977194</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1715994600519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715994600519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
