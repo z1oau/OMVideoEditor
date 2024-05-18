@@ -3,10 +3,44 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:OMApplication"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="900" Width="1600"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <!-- Menu Bar -->
+        <Menu DockPanel.Dock="Top">
+            <!-- Menu items go here -->
+        </Menu>
 
-    </Grid>
+        <!-- Toolbar -->
+        <ToolBar DockPanel.Dock="Top">
+            <!-- Toolbar buttons go here -->
+        </ToolBar>
+
+        <!-- Main area -->
+        <Grid>
+            <!-- Project Explorer -->
+            <TreeView Grid.Column="0" Width="200">
+                <!-- Project items go here -->
+            </TreeView>
+
+            <!-- Preview Panel -->
+            <MediaElement Grid.Column="1" />
+
+            <!-- Timeline -->
+            <ItemsControl Grid.Column="2" Height="200">
+                <!-- Timeline items go here -->
+            </ItemsControl>
+
+            <!-- Properties Panel -->
+            <StackPanel Grid.Column="3" Width="200">
+                <!-- Property items go here -->
+            </StackPanel>
+
+            <!-- Effects Panel -->
+            <StackPanel Grid.Column="4" Width="200">
+                <!-- Effect items go here -->
+            </StackPanel>
+        </Grid>
+    </DockPanel>
 </Window>
